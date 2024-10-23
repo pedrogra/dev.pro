@@ -1,0 +1,15 @@
+[Timezone tests]
+#1 During log action check in what timezone is being registered
+
+[File name tests]
+#1 Invalid file name
+#2 Invalid directory
+#3 Size Limit Message - What's the limit?
+
+[Message tests]
+#1 Empty Message
+#2 Null Message
+#3 Size Limit Message - What's the limit?
+
+[Log Level tests]
+#1 Invalid input
